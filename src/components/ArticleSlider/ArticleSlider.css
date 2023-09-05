@@ -1,0 +1,10 @@
+.articleSlider h5{
+    font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        color: #000;
+}
+
+.articleSlider .articlesliderSection{
+    padding-top: 0;
+}
